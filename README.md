@@ -1,2 +1,2 @@
 # build-security camera-with-python
-easy with just few 
+easy with just few lines 
