@@ -1,2 +1,2 @@
 # build security camera with python.
-easy with just few line of codes..
+easy with just few lines of codes..
